@@ -40,6 +40,8 @@ The analysis of the election show that:
 
 ## Challenge Summary:
 
+# You can see the below results that were printed to the terminal after completing this challenge.
+
 ![Election_analysis Screenshot](https://github.com/matthubb17/Election_Analysis/blob/main/Resources/Election_analysis%20Screenshot.png)
 
 
