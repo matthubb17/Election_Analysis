@@ -38,6 +38,12 @@ The analysis of the election show that:
         
 ## Challenge Overview:
 
+* After helping Seth and Tom submit the election audit results, the election commission requested some additional data that they would like in order to complete the audit.
+    - The voter turnout for each county
+    - The percentage of votes from each county out of the total count
+    - The county with the highest turnout
+    	- Below you will see the challenge summary resluts that were recieved from the terminal. In additon I have linked the .txt file that was created here as well. [Click here.](https://github.com/matthubb17/Election_Analysis/tree/main/analysis) 
+
 ## Challenge Summary:
 
 ### You can see the below results that were printed to the terminal after completing this challenge.
