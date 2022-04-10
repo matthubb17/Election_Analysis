@@ -42,7 +42,7 @@ The analysis of the election show that:
     - The voter turnout for each county
     - The percentage of votes from each county out of the total count
     - The county with the highest turnout
-    	- Below you will see the challenge summary resluts that were recieved from the terminal. In addition I have linked the [.txt file](https://github.com/matthubb17/Election_Analysis/tree/main/analysis) that was created here as well.
+    	- Below you will see the challenge summary results that were recieved from the terminal. In addition I have linked the [.txt file](https://github.com/matthubb17/Election_Analysis/tree/main/analysis) that was created here as well.
 
 ## Challenge Summary:
 
