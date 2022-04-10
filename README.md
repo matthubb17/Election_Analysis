@@ -44,7 +44,7 @@ The analysis of the election show that:
     - The county with the highest turnout
     	- Below you will see the challenge summary results that were recieved from the terminal. In addition, I have linked the [.txt file](https://github.com/matthubb17/Election_Analysis/tree/main/analysis) that was created as a part of the challenge as well.
     	- Moving forward the election audit committee could use this script for upcoming elections. Sice I properly commented out each line within the code by upating the script to pull in a new excel data file we could rerun the script with minimal tweaks and get updated results.
-    	- In addition, if there are more votes that come in, we could update the current "election_results.csv" file and rerun the script to get updated results for the election.
+    	- In addition, if there are more votes that come in, we could update the current "election_results.csv" file and rerun the script to get updated results for the election along with identifying if the winner is the same. This will allow us to confirm we have the proper winner for this election.
 
 ## Challenge Summary:
 
